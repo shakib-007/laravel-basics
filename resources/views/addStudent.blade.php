@@ -20,6 +20,10 @@
             <td>Country : </td>
             <td><input type="text" name="country" id=""></td>
         </tr>
+        <tr>
+            <td>address : </td>
+            <td><input type="text" name="address" id=""></td>
+        </tr>
     </table>
     
     <input type="submit" name="Submit">
